@@ -7,7 +7,6 @@ This project is a Django REST Framework (DRF) application with:
 - ✅ PostgreSQL as database
 - ✅ Swagger (drf-yasg) for API docs
 - ✅ Docker + Docker Compose
-- ✅ Environment variables via `.env`
 
 ---
 
@@ -15,7 +14,6 @@ This project is a Django REST Framework (DRF) application with:
 
 - [Docker](https://www.docker.com/)
 - [Docker Compose](https://docs.docker.com/compose/)
-- `.env` file with your project settings
 
 ---
 
